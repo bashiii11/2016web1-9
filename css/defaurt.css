@@ -54,5 +54,21 @@ body{
         orangered  0%
         white     50%);
 }
+/* transform */
+.transform{
+   font-size: 10ox;
+   width: 100px;
+   text-align: center;
+   padding: 45px 0px;
+   margin: 20px;
+   background-color: mediumspringgreen;
 }
+.translateX{
+   transform: translateX(10px);
+}
+.translateY{
+   transform: translateY(10px);
+}
+.translate{
+   transform: translaye(-20px, -5px);
 }
