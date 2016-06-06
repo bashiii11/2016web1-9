@@ -37,3 +37,9 @@ body{
                            0px 0px 13px deeppink,
                            0px 0px 13px deeppink,
                            0px 0px 13px deeppink;}
+                     
+/* box-shadow */
+#box-shadow{
+   font-size: 30px;
+}
+.box-drop_shadow   {box-shadow:2px 2px 5px gray;
