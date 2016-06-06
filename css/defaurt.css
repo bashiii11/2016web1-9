@@ -43,3 +43,16 @@ body{
    font-size: 30px;
 }
 .box-drop_shadow   {box-shadow:2px 2px 5px gray;
+
+/* gradient */
+#gradient{
+   font-size: 30px;
+}
+.two-gradient{
+   background-color: white;
+   background: linear-gradient(0deg
+        orangered  0%
+        white     50%);
+}
+}
+}
